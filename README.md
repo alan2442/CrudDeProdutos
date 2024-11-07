@@ -1,4 +1,4 @@
-- Esse é um Crud de Produtos que eu criei utilizando HTML, CSS , JavaScript, Java, Hibernate, JPA, Extensão Lombok, React e Spring Boot
+- Esse é um Crud de Produtos que eu criei utilizando HTML, CSS , JavaScript, MySQL, Java, Hibernate, JPA, Extensão Lombok, React e Spring Boot
 
 Como Executar:
 - Execute o MySQl para funcionar os banco de dados
